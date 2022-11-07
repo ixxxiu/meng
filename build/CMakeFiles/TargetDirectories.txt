@@ -1,0 +1,3 @@
+/Users/anatsieval/CLionProjects/mengcode/build/CMakeFiles/meng_test.dir
+/Users/anatsieval/CLionProjects/mengcode/build/CMakeFiles/edit_cache.dir
+/Users/anatsieval/CLionProjects/mengcode/build/CMakeFiles/rebuild_cache.dir
