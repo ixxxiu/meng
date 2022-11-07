@@ -2,7 +2,7 @@
 #define n 5
 int main()
 {
-    printf("CI/CD Test!!")
+    printf("CI/CD Test!!");
     typedef struct
     {
         int time_h;
